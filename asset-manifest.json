@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/photography-website/static/css/main.bd32fa07.css",
+    "main.js": "/photography-website/static/js/main.fcde9bc7.js",
+    "static/js/453.3255ecde.chunk.js": "/photography-website/static/js/453.3255ecde.chunk.js",
+    "static/media/image (4).jpg": "/photography-website/static/media/image (4).d038e7dcf543f16dfac6.jpg",
+    "static/media/image (5).jpg": "/photography-website/static/media/image (5).8d34e461c328bac88197.jpg",
+    "static/media/image (7).jpg": "/photography-website/static/media/image (7).4fdeab3e8b03feefbe89.jpg",
+    "static/media/image (2).jpg": "/photography-website/static/media/image (2).96a39c54c7726fe99a05.jpg",
+    "static/media/image (3).jpg": "/photography-website/static/media/image (3).d937a56cd23e70427610.jpg",
+    "static/media/image (8).jpg": "/photography-website/static/media/image (8).4b3166873c4c034e239a.jpg",
+    "static/media/image (6).jpg": "/photography-website/static/media/image (6).454f5a50704502951a1f.jpg",
+    "static/media/image (9).jpg": "/photography-website/static/media/image (9).2eb58a3f2d8ef8fae06b.jpg",
+    "static/media/image (1).jpg": "/photography-website/static/media/image (1).e8a29e6136d8eebf0775.jpg",
+    "static/media/logo.jpg": "/photography-website/static/media/logo.93f0e610a406b4b18f33.jpg",
+    "index.html": "/photography-website/index.html",
+    "main.bd32fa07.css.map": "/photography-website/static/css/main.bd32fa07.css.map",
+    "main.fcde9bc7.js.map": "/photography-website/static/js/main.fcde9bc7.js.map",
+    "453.3255ecde.chunk.js.map": "/photography-website/static/js/453.3255ecde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd32fa07.css",
+    "static/js/main.fcde9bc7.js"
+  ]
+}
